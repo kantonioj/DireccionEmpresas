@@ -196,27 +196,27 @@
       <div class="row">
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalObjectives"><i class="fa fa-info-circle"></i></a> Objetivo:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C1">
         </div>
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalAlternatives"><i class="fa fa-info-circle"></i></a> Alternativas:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C2">
         </div>
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalConsecuencies"><i class="fa fa-info-circle"></i></a> Consecuencias:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C3">
         </div>
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalUncertainty"><i class="fa fa-info-circle"></i></a> Incertidumbres:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C4">
         </div>
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalRisk"><i class="fa fa-info-circle"></i></a> Riesgos:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C5">
         </div>
         <div class="col-md-12">
           <h4 class="service-heading"><a href="#" style="font-size: 35px;" data-toggle="modal" data-target="#modalInformation"><i class="fa fa-info-circle"></i></a> Información:</h4>
-          <input type="text" name="" placeholder="Criterio" class="input">
+          <input type="text" name="" placeholder="Criterio" class="input" id="input-C6">
         </div>
       </div>
     </div>
@@ -361,37 +361,37 @@
           </thead>
           <tbody class="text-center">
             <tr class="table-objectives">
-              <td>Objetivo</td>
+              <td id="Ti1">Objetivo</td>
               <td id="O1"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="O2"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="O3"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
             </tr>
             <tr class="table-alternatives">
-              <td>Alternativa</td>
+              <td id="Ti2">Alternativa</td>
               <td id="A1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="A2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="A3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
             </tr>
             <tr class="table-consecuencies">
-              <td>Consecuencia</td>
+              <td id="Ti3">Consecuencia</td>
               <td id="C1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="C2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="C3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
             </tr>
             <tr class="table-uncertainty">
-              <td>Incertidumbre</td>
+              <td id="Ti4">Incertidumbre</td>
               <td id="U1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="U2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="U3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
             </tr>
             <tr class="table-risk">
-              <td>Riesgo</td>
+              <td id="Ti5">Riesgo</td>
               <td id="R1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="R2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="R3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
             </tr>
             <tr class="table-information">
-              <td>Información</td>
+              <td id="Ti6">Información</td>
               <td id="I1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="I2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
               <td id="I3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
@@ -418,7 +418,9 @@
           </div>
         </div>
         <div class="jumbotron final-solution">
-
+          <h4 id="final-solution-text"></h4>
+          <br><br>
+          <p id="note"></p>
         </div>
       </div>
     </section>
