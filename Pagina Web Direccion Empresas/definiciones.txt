@@ -29,6 +29,6 @@
 *****************************************************
 ** PERSONAL
 * Autestima
-* Control de sentimientos
+* Control de emociones
 * Conflicto
-* Eleción de empleo
+* Elección de empleo
