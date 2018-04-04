@@ -1,0 +1,34 @@
+/******************* Problemas *********************/
+* Económico
+* Social
+* Académico
+* Personal
+* Empresa/Negocio
+* Administrativo
+* Hábitos
+* Tecnológico
+* Otro
+*****************************************************
+** ECONÓMICO
+* Administración de gastos
+* Distribución de recursos
+* Inversión
+* Gastos inesperados
+* Ahorro
+*****************************************************
+** SOCIAL
+* Bullying
+* Comunicación
+* Presión social
+*****************************************************
+** ACADÉMICO
+* Estudio
+* Elección de Carrera
+* Organización
+* Busqueda de material
+*****************************************************
+** PERSONAL
+* Autestima
+* Control de sentimientos
+* Conflicto
+* Eleción de empleo
