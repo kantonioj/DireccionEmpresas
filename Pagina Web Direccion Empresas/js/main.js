@@ -59,9 +59,10 @@ $(document).ready(function(){
     }
 
   });
-
-
-
   console.log(economic);
+
+  jQuery.get('http://yourserver.com/file.txt', function(data) {
+    do_something_with(data)
+  }, 'text');
 
 });
