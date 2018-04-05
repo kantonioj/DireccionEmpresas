@@ -63,7 +63,7 @@
       <div class="intro-text">
         <div class="intro-lead-in">Dirección de Empresas</i></div><br>
         <div class="intro-lead-in text-uppercase">¡Da clic para empezar a resolver tu problema!</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¡Empezar!</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#Problem">¡Empezar!</a>
       </div>
     </div>
   </header>
@@ -79,24 +79,7 @@
             <h3 class="section-subheading text-muted">Seleciona el Problema General</h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="economic"> <p><i class="fa fa-money" aria-hidden="true"></i> Económico</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="social"> <p><i class="fa fa-globe" aria-hidden="true"></i> Social</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="academic"> <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Académico</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="personal"> <p><i class="fa fa-user" aria-hidden="true"></i> Personal</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="business"> <p><i class="fa fa-building" aria-hidden="true"></i> Empresa</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="administration"> <p><i class="fa fa-bar-chart" aria-hidden="true"></i> Administrativo</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="habits"> <p><i class="fa fa-archive" aria-hidden="true"></i> Hábitos</p> </div>
-
-          <div class="col-md-3 col-sm-3 field-main-problem" data-problem="techo"> <p><i class="fa fa-microchip" aria-hidden="true"></i> Tecnológico</p> </div>
-
-          <div class="col-md-12 col-sm-12 field-main-problem" data-problem="other"> <p><i class="fa fa-list" aria-hidden="true"></i> Otro</p> </div>
+        <div class="row general-problem">
         </div>
 
         <hr>
@@ -129,12 +112,22 @@
 
         </div>
       </div>
+
       <div class="subproblem hide">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase"><i class="fa fa-gavel" aria-hidden="true"></i>SubProblema</h2>
           <h3 class="section-subheading text-muted">Seleciona el Problema que más se acerque</h3>
         </div>
         <div class="row content-subproblem">
+        </div>
+      </div>
+
+      <div class="mainproblem hide">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase"><i class="fa fa-gavel" aria-hidden="true"></i>Problema principal</h2>
+          <h3 class="section-subheading text-muted">Seleciona el Problema que más se acerque</h3>
+        </div>
+        <div class="row content-mainproblem">
         </div>
       </div>
     </div>
@@ -162,7 +155,7 @@
 
 
 <!-- Criteria -->
-<section id="about" class="even hide">
+<section id="about" class="even hide criteriatemp">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -182,69 +175,25 @@
   </div>
 </section>
 <!-- Matriz -->
-<section id="team" class="hide">
+<section id="team" class="hide criteria">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase"><i class="fa fa-table" aria-hidden="true"></i> Matriz</h2>
         <h3 class="section-subheading text-muted">Generador de Matriz</h3>
-        <a class="btn btn-primary btn-xl" href="#" id="matrix">Generar matriz <i class="fa fa-pie-chart" aria-hidden="true"></i></a>
       </div>
     </div>
     <br>
     <div class="row">
-      <table class="table table-bordered hide" id="dataTable" width="100%" cellspacing="0">
+      <div class="list-criteria">
+      </div>
+      <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
         <thead class="text-center">
           <tr class="table-header">
             <th><i class="fa fa-cogs"></i> Criterios</th>
-            <th id="H1">Solución 1</th>
-            <th id="H2">Solución 2</th>
-            <th id="H3">Solución 3</th>
           </tr>
         </thead>
-        <tbody class="text-center">
-          <tr class="table-objectives">
-            <td id="Ti1">Objetivo</td>
-            <td id="O1"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="O2"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="O3"> <input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-alternatives">
-            <td id="Ti2">Alternativa</td>
-            <td id="A1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="A2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="A3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-consecuencies">
-            <td id="Ti3">Consecuencia</td>
-            <td id="C1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="C2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="C3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-uncertainty">
-            <td id="Ti4">Incertidumbre</td>
-            <td id="U1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="U2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="U3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-risk">
-            <td id="Ti5">Riesgo</td>
-            <td id="R1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="R2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="R3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-information">
-            <td id="Ti6">Información</td>
-            <td id="I1"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="I2"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-            <td id="I3"><input type="number" value="0" class="input_matrix" min="0" max="5"> </td>
-          </tr>
-          <tr class="table-total">
-            <th><a class="btn btn-primary" href="#solution" id="total">Resolver</a></th>
-            <td id="T1"></td>
-            <td id="T2"></td>
-            <td id="T3"></td>
-          </tr>
+        <tbody class="text-center tb-matrix">
         </tbody>
       </table>
     </div>

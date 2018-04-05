@@ -1,0 +1,4 @@
+*Tiempo de implementación
+*Costo de implementación
+*Beneficio
+*Factible

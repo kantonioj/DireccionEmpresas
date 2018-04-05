@@ -1,272 +1,271 @@
-******************* Problemas *********************
-* Económico
-* Social
-* Académico
-* Personal
-* Empresa/Negocio
-* Administrativo
-* Hábitos
-* Tecnológico
-* Otro
-*****************************************************
-*** ECONÓMICO
-** Administración de gastos
-* Gasto mucho
-* No se en que gasto
-+ Realizar un inventario de gastos - Descripción
-+ Congelar cuentas o limitar gastos - Descripción
-+ Asesoría profesional - Descripción
-* No se en que gastar
-+ Establecer prioridades - Descripción
-+ Establecer necesidades - Descripción
-+ Establecer metas - Descripción
-** Distribución de recursos
-* No defino prioridades
-+ Establecer prioridades - Descripción
-+ Establecer necesidades - Descripción
-+ Asesoría externa - Descripción
-* No se en que procentaje distribuir
-+ Establecer prioridades - Descripción
-+ Establecer necesidades - Descripción
-+ Asesoría externa - Descripción
-* A que distribuir
-+ Establecer necesidades - Descripción
-+ Establecer objetivos - Descripción
-+ Establecer prioridades - Descripción
-** Inversión
-* Dónde invierto
-+ Bolsa de valores - Descripción
-+ Bancos - Descripción
-+ Empresa - Descripción
-* En qué invierto
-+ Acciones - Descripción
-+ Propiedades - Descripción
-+ Monedad digiales - Descripción
-* Para que invierto
-+ Mejorar situción - Descripción
-+ Para realizar proyectos futuros - Descripción
-+ Ahorro - Descripción
-** Gastos inesperados
-* No tengo control
-+ Buscar fuente si existe - Descripción
-+ Ahorrar - Descripción
-+ Asesoría profesional - Descripción
-* No puedo prevenirlos
-+ Ahorro - Descripción
-+ Inversión - Descripción
-+ Asesoría profesional - Descripción
-* No tengo dinero para resolverlo
-+ Ahorro - Descripción
-+ Inversión - Descripción
-+ Asesoría profesional - Descripción
-** Ahorro
-* Cómo ahorro
-+ Busca programas - Descripción
-+ Ahorra monedas - Descripción
-+ Asesoría profesional - Descripción
-* En dónde ahorro
-+ Bancos - Descripción
-+ Cochino - Descripción
-+ Asesoría profesional - Descripción
-* Hasta cuándo ahorro
-+ No hay tiempo - Descripción
-+ Hasta los 70 años - Descripción
-+ Asesoría profesional - Descripción
-*****************************************************
-*** SOCIAL
-** Bullying
-* Cómo prevenirlo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cómo identificarlo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cómo evitarlo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Comunicación
-* No hay comunicación
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* No se expresarme
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Padres
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Presión social
-* Cómo evitarla
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cómo escapar de ella
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cómo no hacerla
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** ACADÉMICO
-** Estudio
-* No se estudiar
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Mejorar mi método
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* No puedo concentrarme
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Elección de Carrera
-* Cuál elijo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cuál universidad
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Busco en linea o presencial
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Organización
-* No se organizarme
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Organizo de más
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Dejo todo al final
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Busqueda de material
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Dónde buscarlo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Cómo buscarlo
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-* Videos y/o texto
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** PERSONAL
-** Autestima
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Control de emociones
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Conflicto
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Elección de empleo
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** EMPRESA
-** Administración
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Gastos
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Empleados
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Clientes
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** ADMINISTRATIVO
-** Falta de orden
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Falta de conocimiento
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Tarea nueva
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** HÁBITOS
-** Malos Hábitos
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Generar Hábitos
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Mejorar Hábitos
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-*****************************************************
-*** TECNOLOGICO
-** Con un dispositivo
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Búsqueda de material
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Aprendizaje
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
-** Qué hacer con ello
-* Probema Principal
-+ Solucion 1 - Descripción
-+ Solucion 2 - Descripción
-+ Solucion 3 - Descripción
+******************* Problemas *********************~
+*Económico
+*Social
+*Académico
+*Personal
+*Empresa/Negocio
+*Administrativo
+*Hábitos
+*Tecnológico
+*Otro
+~
+***ECONÓMICO¬
+**Administración de gastos¬
+*Gasto mucho¬
++Realizar un inventario de gastos - Descripción¬
++Congelar cuentas o limitar gastos - Descripción¬
++Asesoría profesional - Descripción¬
+*No se en que gastar¬
++Establecer prioridades - Descripción¬
++Establecer necesidades - Descripción¬
++Establecer metas - Descripción¬
+**Distribución de recursos¬
+*No defino prioridades¬
++Establecer prioridades - Descripción¬
++Establecer necesidades - Descripción¬
++Asesoría externa - Descripción¬
+*No se en que procentaje distribuir¬
++Establecer prioridades - Descripción¬
++Establecer necesidades - Descripción¬
++Asesoría externa - Descripción¬
+*A que distribuir¬
++Establecer necesidades - Descripción¬
++Establecer objetivos - Descripción¬
++Establecer prioridades - Descripción¬
+**Inversión¬
+*Dónde invierto¬
++Bolsa de valores - Descripción¬
++Bancos - Descripción¬
++Empresa - Descripción¬
+*En qué invierto¬
++Acciones - Descripción¬
++Propiedades - Descripción¬
++Monedad digiales - Descripción¬
+*Para que invierto¬
++Mejorar situción - Descripción¬
++Para realizar proyectos futuros - Descripción¬
++Ahorro - Descripción¬
+**Gastos inesperados¬
+*No tengo control¬
++Buscar fuente si existe - Descripción¬
++Ahorrar - Descripción¬
++Asesoría profesional - Descripción¬
+*No puedo prevenirlos¬
++Ahorro - Descripción¬
++Inversión - Descripción¬
++Asesoría profesional - Descripción¬
+*No tengo dinero para resolverlo¬
++Ahorro - Descripción¬
++Inversión - Descripción¬
++Asesoría profesional - Descripción¬
+**Ahorro¬
+*Cómo ahorro¬
++Busca programas - Descripción¬
++Ahorra monedas - Descripción¬
++Asesoría profesional - Descripción¬
+*En dónde ahorro¬
++Bancos - Descripción¬
++Cochino - Descripción¬
++Asesoría profesional - Descripción¬
+*Hasta cuándo ahorro¬
++No hay tiempo - Descripción¬
++Hasta los 70 años - Descripción¬
++Asesoría profesional - Descripción¬
+~
+***SOCIAL¬
+**Bullying¬
+*Cómo prevenirlo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cómo identificarlo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cómo evitarlo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Comunicación¬
+*No hay comunicación¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*No se expresarme¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Padres¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Presión social¬
+*Cómo evitarla¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cómo escapar de ella¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cómo no hacerla¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***ACADÉMICO¬
+**Estudio¬
+*No se estudiar¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Mejorar mi método¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*No puedo concentrarme¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Elección de Carrera¬
+*Cuál elijo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cuál universidad¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Busco en linea o presencial¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Organización¬
+*No se organizarme¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Organizo de más¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Dejo todo al final¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Busqueda de material¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Dónde buscarlo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Cómo buscarlo¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+*Videos y/o texto¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***PERSONAL¬
+**Autestima¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Control de emociones¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Conflicto¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Elección de empleo¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***EMPRESA¬
+**Administración¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Gastos¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Empleados¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Clientes¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***ADMINISTRATIVO¬
+**Falta de orden¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Falta de conocimiento¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Tarea nueva¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***HÁBITOS¬
+**Malos Hábitos¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Generar Hábitos¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Mejorar Hábitos¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+~
+***TECNOLOGICO¬
+**Con un dispositivo¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Búsqueda de material¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Aprendizaje¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
+**Qué hacer con ello¬
+*Probema Principal¬
++Solucion 1 - Descripción¬
++Solucion 2 - Descripción¬
++Solucion 3 - Descripción¬
