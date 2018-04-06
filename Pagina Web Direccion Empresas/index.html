@@ -175,12 +175,12 @@
   </div>
 </section>
 <!-- Matriz -->
-<section id="team" class="hide criteria">
+<section id="matrix" class="hide criteria">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase"><i class="fa fa-table" aria-hidden="true"></i> Matriz</h2>
-        <h3 class="section-subheading text-muted">Generador de Matriz</h3>
+        <h3 class="section-subheading text-muted">Generador de Matriz<br>Seleciona del 0 al 5 valorando si la solución cumple el criterio. 0 es pésimo y 5 es excelente</h3>
       </div>
     </div>
     <br>
@@ -196,6 +196,10 @@
         <tbody class="text-center tb-matrix">
         </tbody>
       </table>
+      <div class="confirm-button text-right hide col-md-12">
+        <a class="btn btn-primary" href="#" id="last-step">Confirmar</a>
+        <p>Oprime la "Confirmar" cuando este seguro que la matríz es correcta</p>
+      </div>
     </div>
   </section>
 
@@ -209,8 +213,8 @@
         </div>
       </div>
       <div class="jumbotron final-solution">
+        <h1>La posible solución a tu problema es:</h1>
         <h4 id="final-solution-text"></h4>
-        <br><br>
         <p id="note"></p>
       </div>
     </div>

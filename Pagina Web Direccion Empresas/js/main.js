@@ -219,11 +219,11 @@ $(document).ready(function(){
         var a = $("<a></a>").attr({"class" : "btn btn-primary", "href" : "#", "id" : "total"});
         $(a).text("Resolver");
         var tr = $("<tr></tr>").addClass("row-matrix");
-        var td = $("<td></td>").attr({"id" : ("Total-criteria")});
+        var td = $("<td></td>").attr({"id" : ("Total-criteria"), "class" : "total-row"});
         $(td).append(a);
         $(tr).append(td);
         for (var j = 0; j < int_solution; j++) {
-          td = $("<td></td>").attr({"id" : ("Total" + i + "-" + j)});
+          td = $("<td></td>").attr({"id" : ("Total" + i + "-" + j), "class" : "total-row"});
           $(tr).append(td);
         }
         $("tbody.tb-matrix").append(tr);
@@ -237,32 +237,70 @@ $(document).ready(function(){
     return false;
   });
 
-    $(document).on("click", "a#total", function(){
-    console.log("a");
+  var arry_sum = new Array();
+
+  $(document).on("click", "a#total", function(){
+
+    arry_sum = new Array();
+
     var total_nodos = $("tr.row-matrix");
+    var th = $("tr.table-header").children();
     var hijos_nodos;
-    var arry_sum = new Array();
+
+    for (var i = 0; i < th.length - 1; i++) { arry_sum.push(0); }
     console.log(total_nodos);
+    console.log(arry_sum);
 
-    for (var i = 0; i < total_nodos.length; i++) {
-      if (i != total_nodos.length - 1) {
-        console.log(total_nodos[i]);
-        console.log("*");
-        hijos_nodos = $(total_nodos[i]).children();
-        console.log(hijos_nodos);
-        hijos_nodos = $(hijos_nodos).find(".input_matrix");
+    for (var i = 0; i < total_nodos.length - 1; i++) {
+      console.log("hijos_nodos");
+      hijos_nodos = $(total_nodos[i]).children();
+      console.log(hijos_nodos);
+      for (var j = 0; j < arry_sum.length; j++) {
+          var temp = $(hijos_nodos).find("input");
+          arry_sum[j] += parseInt($(temp[j]).val());
+          console.log("temp");
+          console.log(temp);
+          console.log("En arr[" + j + "] = "+ arry_sum[j]);
+          console.log($(temp[j]));
+      }
+    }
+    console.log(arry_sum);
 
-        if (i == 0) {
-          for (var i = 1; i < hijos_nodos.length; i++) {
-            // arry_sum.push(hijos_nodos[i]);
-            console.log(hijos_nodos[i]);
-          }
-        }
+    hijos_nodos = $(total_nodos[total_nodos.length - 1]).children();
+    for (var i = 0; i < arry_sum.length; i++) {
+      $(hijos_nodos[i + 1]).text(arry_sum[i]);
+      console.log($(hijos_nodos[i + 1]));
+    }
 
+    $("div.confirm-button").show();
+    return false;
+  });
 
+  $("a#last-step").on("click", function(){
+    $("section#matrix").hide();
+    $("section#solution").show();
+
+    var intTmp = arry_sum[0];
+    var indxTemp = 0;
+    for (var i = 1; i < arry_sum.length; i++) {
+      if (arry_sum[i] > intTmp) {
+        intTmp = arry_sum[i];
+        indxTemp = i;
       }
     }
 
+    console.log(intTmp);
+    console.log(arry_sum);
+
+    var tempIndex = + parseInt(Array_Topics[first_id][2][second_id].length / 2) + parseInt(third_id);
+    var strTemp = Array_Topics[first_id][2][second_id][tempIndex][indxTemp];
+    console.log(tempIndex);
+    console.log(third_id);
+    console.log(strTemp);
+    console.log(indxTemp);
+    strTemp = strTemp.split("-");
+    $("h4#final-solution-text").text("Solución " + (indxTemp + 1) + ": " + strTemp[0]);
+    $("p#note").text(strTemp[1]);
     return false;
   });
 
