@@ -237,4 +237,33 @@ $(document).ready(function(){
     return false;
   });
 
+    $(document).on("click", "a#total", function(){
+    console.log("a");
+    var total_nodos = $("tr.row-matrix");
+    var hijos_nodos;
+    var arry_sum = new Array();
+    console.log(total_nodos);
+
+    for (var i = 0; i < total_nodos.length; i++) {
+      if (i != total_nodos.length - 1) {
+        console.log(total_nodos[i]);
+        console.log("*");
+        hijos_nodos = $(total_nodos[i]).children();
+        console.log(hijos_nodos);
+        hijos_nodos = $(hijos_nodos).find(".input_matrix");
+
+        if (i == 0) {
+          for (var i = 1; i < hijos_nodos.length; i++) {
+            // arry_sum.push(hijos_nodos[i]);
+            console.log(hijos_nodos[i]);
+          }
+        }
+
+
+      }
+    }
+
+    return false;
+  });
+
 });
