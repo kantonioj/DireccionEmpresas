@@ -30,46 +30,29 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top"><i class="fa fa-briefcase" aria-hidden="true"></i> Case Solver</a>
+      <a class="navbar-brand js-scroll-trigger" href="index.html"><i class="fa fa-briefcase" aria-hidden="true"></i> Case Solver</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menú
         <i class="fa fa-bars"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav text-uppercase ml-auto">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#Problem">Problema</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Soluciones</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Criterios</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Matriz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Solución</a>
-          </li>
-        </ul>
       </div>
     </div>
   </nav>
 
   <!-- Header -->
-  <header class="masthead">
+  <header class="masthead fullview">
     <div class="container">
       <div class="intro-text">
         <div class="intro-lead-in">Dirección de Empresas</i></div><br>
         <div class="intro-lead-in text-uppercase">¡Da clic para empezar a resolver tu problema!</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#Problem">¡Empezar!</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" id="start">¡Empezar!</a>
       </div>
     </div>
   </header>
 
   <!-- Problem -->
-  <section id="Problem" class="odd">
+  <section id="Problem" class="odd hide ">
     <div class="container">
 
       <div class="problem">
@@ -113,20 +96,27 @@
         </div>
       </div>
 
-      <div class="subproblem hide">
+      <div class="subproblem hide almostfullview">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase"><i class="fa fa-gavel" aria-hidden="true"></i>SubProblema</h2>
           <h3 class="section-subheading text-muted">Seleciona el Problema que más se acerque</h3>
         </div>
+        <div class="return col-sm-12 text-right">
+          <button type="button" name="button" class="btn btn-primary" id="return1">Regresar</button>
+        </div> <br>
+
         <div class="row content-subproblem">
         </div>
       </div>
 
-      <div class="mainproblem hide">
+      <div class="mainproblem hide almostfullview">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase"><i class="fa fa-gavel" aria-hidden="true"></i>Problema principal</h2>
           <h3 class="section-subheading text-muted">Seleciona el Problema que más se acerque</h3>
         </div>
+        <div class="return col-sm-12 text-right">
+          <button type="button" name="button" class="btn btn-primary" id="return2">Regresar</button>
+        </div> <br>
         <div class="row content-mainproblem">
         </div>
       </div>
@@ -155,7 +145,7 @@
 
 
 <!-- Criteria -->
-<section id="about" class="even hide criteriatemp">
+<section id="about" class="even hide criteriatemp almostfullview">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -175,7 +165,7 @@
   </div>
 </section>
 <!-- Matriz -->
-<section id="matrix" class="hide criteria">
+<section id="matrix" class="hide criteria almostfullview">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -204,7 +194,7 @@
   </section>
 
   <!-- Final Solution -->
-  <section id="solution" class="odd hide">
+  <section id="solution" class="odd hide almostfullview">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
@@ -217,6 +207,7 @@
         <h4 id="final-solution-text"></h4>
         <p id="note"></p>
       </div>
+      <a class="btn btn-primary" href="index.html">Da click para resolver otro problema</a>
     </div>
   </section>
 
@@ -247,6 +238,10 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/main.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+
+
 </body>
 
 </html>

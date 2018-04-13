@@ -12,260 +12,232 @@
 ***ECONÓMICO¬
 **Administración de gastos¬
 *Gasto mucho¬
-+Realizar un inventario de gastos - Descripción¬
-+Congelar cuentas o limitar gastos - Descripción¬
-+Asesoría profesional - Descripción¬
++Realizar un inventario de gastos - Para tener un registro de todos los movimientos que se hacen¬
++Congelar cuentas o limitar gastos - Sólamente en casos extremos donde hay riesgo de una perdida significativa de capital por mal uso de la cuenta¬
++Asesoría profesional - En caso de que la administración de los gastos llegue a ser demasiada compleja se debería elegir esta opción¬
 *No se en que gastar¬
-+Establecer prioridades - Descripción¬
-+Establecer necesidades - Descripción¬
-+Establecer metas - Descripción¬
++Establecer prioridades - Decidir el grado de importancia de cualquier gasto que se haga con respecto al alcance respectivo¬
++Establecer necesidades - Lo mínimo requerido para que se puedan seguir las operaciones regulares ¬
++Establecer metas - Pueden ser a corto o largo plazo en busca de una o varias mejoras¬
 **Distribución de recursos¬
 *No defino prioridades¬
-+Establecer prioridades - Descripción¬
-+Establecer necesidades - Descripción¬
-+Asesoría externa - Descripción¬
++Establecer necesidades - Hacer un análisis de qué necesidades tienen un mayor valor en cada módulo¬
++Asesoría externa - Puede que el problema no sea muy obvio para una persona dentro de la empresa¬
 *No se en que procentaje distribuir¬
-+Establecer prioridades - Descripción¬
-+Establecer necesidades - Descripción¬
-+Asesoría externa - Descripción¬
++Hacer tablas para sacar totales de cada módulo - En las filas va los módulos y en las columnas los aspectos a evaluar que sean generales para todos los módulos. Se puede hacer una métrica de 1 a 5¬
++Asesoría externa - Si se desconoce de la metodología para hacer este procedimiento¬
 *A que distribuir¬
-+Establecer necesidades - Descripción¬
-+Establecer objetivos - Descripción¬
-+Establecer prioridades - Descripción¬
++Establecer necesidades - Lo mínimo requerido para que se puedan seguir las operaciones regulares ¬
++Establecer objetivos - Asegurarse de que los recursos coincidan con lo que se necesita¬
++Establecer prioridades - Ver qué recursos son más importantes que otros, en algunos casos se tendrán que poner algunos antes que otros¬
 **Inversión¬
 *Dónde invierto¬
-+Bolsa de valores - Descripción¬
-+Bancos - Descripción¬
-+Empresa - Descripción¬
-*En qué invierto¬
-+Acciones - Descripción¬
-+Propiedades - Descripción¬
-+Monedad digiales - Descripción¬
++Bolsa de valores - Invertir en bolsa es una de las actividades que más dinero mueve y genera al año. ¬
++Criptomonedas - Las criptomonedas son monedas virtuales que han alcanzado mucha popularidad en los últimos dos años porque su valor está creciendo más cada vez.
+Las más conocidas y que mejor rentabilidad tienen son el Bitcoin y el Ethereum, y actualmente son los activos que más ganancias me están dando de todas mis inversiones.
+Lo que hace tan especiales a estos productos es que su precio crece cada día más, y por eso son una inversión segura ya que apenas tienen caídas en la bolsa.¬
++Inmuebles - Invertir en inmuebles es una buena forma de tener un ingreso seguro. Se trata de comprar bienes como puede ser una casa, un local o un terreno para después venderlo o alquilarlo.
+Aunque aquí debes tener presentes dos cosas: la inversión suele ser un poco alta (comprar una cosa o un terreno no es barato), y tardarás tiempo en recuperar tu capital con sus beneficios.¬
++Participar en fondos mutuos - Si crees que eres nulo en finanzas y prefieres que otros con conocimientos lo hagan por ti, existen instituciones que se encargan de analizar cuáles son las mejores acciones para invertir en bolsa, y comprarlas través de un bróker. ¬
++ Conviértete en un ángel inversionista - Los ángeles inversionistas tienen la tarea de encontrar empresas que se acaban de crear o ideas a punto de lanzarse al mercado, e invertir en ellas para que puedan crecer.
+Las inversiones aquí están entre los 25.000 dólares y los 250.000 dólares. Pero a cambio los beneficios que conseguirás también son mucho mayores.¬
 *Para que invierto¬
-+Mejorar situción - Descripción¬
-+Para realizar proyectos futuros - Descripción¬
-+Ahorro - Descripción¬
++Mejorar situación económica - Esto va a proveer más comodidades tanto laborales como personales¬
++Para realizar proyectos futuros - ¬
++Ahorro - Para conseguir en un futuro herramientas o recursos en búsqueda de mejorar la situación actual¬
 **Gastos inesperados¬
 *No tengo control¬
-+Buscar fuente si existe - Descripción¬
-+Ahorrar - Descripción¬
-+Asesoría profesional - Descripción¬
++Buscar fuente, si existe - Hacer un registro para saber qué es lo que falla ¬
++Ahorrar - Es la opción más importante para no afectar algún otro módulo¬
++Asesoría profesional - Para obtener un análisis acertado y tener un plan de acción¬
 *No puedo prevenirlos¬
-+Ahorro - Descripción¬
-+Inversión - Descripción¬
-+Asesoría profesional - Descripción¬
++Ahorro - Se tiene que poder crear un fondo de ahorro para este tipo de gastos¬
++Asesoría profesional - Para obtener un análisis acertado y tener un plan de acción para que dejen de ser gastos inesperados¬
 *No tengo dinero para resolverlo¬
-+Ahorro - Descripción¬
-+Inversión - Descripción¬
-+Asesoría profesional - Descripción¬
-**Ahorro¬
-*Cómo ahorro¬
-+Busca programas - Descripción¬
-+Ahorra monedas - Descripción¬
-+Asesoría profesional - Descripción¬
-*En dónde ahorro¬
-+Bancos - Descripción¬
-+Cochino - Descripción¬
-+Asesoría profesional - Descripción¬
-*Hasta cuándo ahorro¬
-+No hay tiempo - Descripción¬
-+Hasta los 70 años - Descripción¬
-+Asesoría profesional - Descripción¬
++Modificar plan de negocios - Hacer los cambios necesarios para que no haya cifras negativas¬
++Asesoría profesional - Si no se puede dentro de la empresa pensar en los cambios necesarios, contratar a un profesional¬
 ~
 ***SOCIAL¬
 **Bullying¬
 *Cómo prevenirlo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Cómo identificarlo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Cómo evitarlo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Reconocer al compañero bullie - Este tipo de personas hablan mucho sin dejar hablar, siempre quieren tener la razón, descalifican a las personas justificando que son críticas efectuadas por su bien, hacen creer que se puede confiar en ellos.¬
++Reconocer que el bullie siempre tiene dos caras - Puede ser una persona muy agradable y por otro lado puede ser hiriente y se la pasa descalificando a las personas por todo.¬
++Una vez detectada la agresión no se debe dejar pasar la situación - Hay que denunciar con el jefe inmediato, en recursos humanos y ante las autoridades competentes.¬
+*Cómo combatirlo¬
++Difundir información, guías y prácticas sobre el tema del bullying laboral. - De esta forma la gente tendrá la información necesaria para identificarlo ¬
++Armar programas para aprender a combatir el bullying laboral. - Con estos programan las personas estarán capacitadas para no ser bulleado o ejercerlo¬
++Elaborar procedimientos para apoyar la denuncia sobre el bullying laboral. - Es un punto importante debido a que no todas las personas deciden hablar sobre eso¬
 **Comunicación¬
 *No hay comunicación¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*No se expresarme¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Padres¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Construir equipos - Realizar actividades recreativas en grupo permite crear lazos de confianza y afianzar la comunicación entre las personas. Este tipo de actividades fomentan el bienestar y el compromiso de los colaboradores, al tiempo que exigen mejorar los métodos de comunicación para completar las actividades, lo cual se verá finalmente reflejado en su propio rendimiento.¬
++Comunicación directa - La comunicación por medio de plataformas virtuales (Facebook, LinkedIn, correos corporativos, sistemas de mensajes internos, etc.) se ha tomado las empresas. Es cierto que son muy útiles y permiten transmitir todo tipo de información, por compleja y extensa que sea, pero no es menos cierto que la comunicación persona a persona siempre será la mejor forma de hacerlo.¬
++Entender la diversidad - La globalización ha cambiado las dinámicas de trabajo, cada vez es más común que las empresas tengan colaboradores extranjeros y con diversidad de idiomas o pensamientos en cuanto a religión, cultura, sexo, entre otros aspectos.¬
 **Presión social¬
-*Cómo evitarla¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Cómo escapar de ella¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Cómo no hacerla¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Cómo manejarla¬
++Centre la atención en su salud física y emocional - Haga ejercicio de manera regular y procure tomarse el descanso adecuado. Salga a caminar aprovechando la hora del almuerzo. Vaya al gimnasio antes o después del trabajo. Vaya a la cama cada noche a la misma hora y evite estimulantes después de la cena. Desarrolle su mente y aumente su base de conocimientos. Lea buenos libros y tome clases en los temas que le gusten. ¬
++Establezca sus prioridades y organícese de manera correcta - Considere hacer una lista de aquellas cosas que son fundamentales y luche contra ellos en orden de importancia y urgencia. "Desmenuzar" los proyectos en pasos pequeños es también un forma de reducir el estrés. Cuando un proyecto grande parece aplastante, desarrolle un plan de acción paso a paso. Enfóquese en un solo paso a la vez, en lugar de tratar de "comer el elefante entero de un solo bocado".Aprenda a delegar responsabilidades y comparta la carga con sus colaboradores.¬
++Sea optimista - Cuando logra hacer esto, el estrés se va volando. Elimine el comportamiento autodestructivo. Los pensamientos negativos exacerban las presiones y reducen su energía, esperanza y motivación. ¬
 ~
 ***ACADÉMICO¬
 **Estudio¬
 *No se estudiar¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Administración de Tiempo - Crea un horario semanal y dedica una cierta cantidad de tiempo al día a estudiar. Esto también te permitirá mejorar tus calificaciones. Esa cantidad de tiempo variará dependiendo de si estudias en la preparatoria o en la universidad y también varía según la rama de estudio. Asegúrate de respetar tu horario y de hacerlo realista. No olvides programar todo, desde el tiempo para comer, vestirte y transportarte hasta las horas de clase y de laboratorio. ¬
++Encuentra tu ritmo - Determina la velocidad de estudio más conveniente para ti y ajústala de acuerdo con tus necesidades. Algunos conceptos o clases te serán más fáciles de aprender, de modo que puedes estudiarlos con mayor rapidez. Hay otros temas que podrían necesitar el doble de tiempo. Tómate el tiempo que necesites y estudia a un ritmo que te parezca cómodo. ¬
++ Toma descansos - Si estudias durante algunas horas seguidas, toma descansos de cinco minutos aproximadamente cada media hora. Esto les ayudará a tus articulaciones al moverte luego de haber estado sentado durante mucho tiempo. También le ayudará a tu mente a relajarse, lo que te facilitará recordar el material con mayor eficacia. También evitará que pierdas la concentración. ¬
++Vuelve a escribir tus apuntes en casa - Cuando tomes apuntes, concéntrate en registrar la información en lugar de hacer que sea comprensible o se vea pulcra. Tan pronto como termine la clase, reescribe lo que apuntas, mientras el material sigue fresco en tu mente, para así poder llenar cualquier vacío en tu memoria. El proceso de reescritura es un método de estudio más activo, pues hace que tu mente participe activamente en recordar la información. Puedes perder la concentración fácilmente si tan solo lees, pero escribir tus apuntes te hará pensar nuevamente en la información. ¬
 *Mejorar mi método¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Utiliza el SQ3R - El SQ3R es un método de estudio que involucra la lectura activa para ayudarte a comprender y empezar a aprender el material. Este método consiste en revisar el material y realizar una lectura activa para que estés más preparado cuando leas un capítulo o artículo. ¬
++Resalta los detalles importantes - Utiliza un resaltador o subraya los puntos más importantes en la estructura del texto, de modo que puedas detectarlos con mayor facilidad cuando revises el material. No resaltes todo, pues eso anula el propósito. En lugar de eso, solo resalta las frase y palabras más importantes. También es útil tomar apuntes con lápiz en el margen utilizando tus propias palabras para resumir o comentar los puntos importantes.¬
++ Crea asociaciones - La manera más eficaz de retener la información es vincularla a información existente que ya hayas aprendido. Utiliza técnicas de memorización para poder recordar información difícil o en grandes cantidades. ¬
++ Resume o haz un esquema del material - Una buena manera de estudiar es escribir el material de tus apuntes y del libro de texto en tus propias palabras. De esa manera, podrás pensar en ella en tus propios términos en lugar de en el lenguaje propio del libro de texto. Si hay una conexión, incorpora los resúmenes en tus apuntes. También puedes hacer un esquema. Organízalo en ideas principales y solo los puntos secundarios más importantes. ¬
 *No puedo concentrarme¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Busca un buen lugar para estudiar. - Obtén el control de tu lugar de estudio. Debes sentirte cómodo para que estudiar sea una actividad más agradable. Si no te gusta estar sentado en una mesa de la biblioteca, busca un lugar mucho más agradable como tu sofá o tu silla Sacco. Ponte ropa confortable para estudiar, como por ejemplo, un suéter cómodo o unos pantalones de yoga. El lugar donde estudies deberá estar libre de distracciones y relativamente en silencio.¬
++Duerme bien - Reserva el tiempo suficiente en tu horario para dormir bien. Duerme bien durante la noche y podrás aprovechar al máximo tus horas de estudio. Esto es importante a medida que se acerca el examen y lo es aún más junto antes de darlo. Los estudios han revelado que dormir afecta de manera positiva el rendimiento en las pruebas al mejorar la memoria y la atención. Quedarte despierto toda la noche estudiando puede parecer una buena idea, pero olvídate de toda esa sesión de estudio acelerado. Si estudias durante las semanas, no necesitarás hacerlo de manera apresurada a último momento. Dormir bien te permitirá tener un mejor rendimiento académico. ¬
++Despeja tu mente - Si tienes muchas cosas en las que pensar, tómate un momento para escribirte algunas notas acerca de lo que piensas y cómo te sientes antes de empezar a estudiar. Esto te ayudará a despejar tu mente y a concentrar todos tus pensamientos en tu trabajo.¬
 **Elección de Carrera¬
 *Cuál elijo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Piensa en tu profesión ideal -  Las personas acostumbrar a decir que si estás eligiendo una profesión, deberías pensar en lo que harías si no tuvieras que trabajar. Si tuvieras una cantidad considerable de dinero y pudieras hacer lo que quisieras, ¿qué harías? La respuesta a esta pregunta (aunque quizás no sea literalmente la profesión más adecuada para ti) puede darte una idea de lo que deberías hacer. ¬
++Considera tus pasatiempos - Es muy fácil convertir tus pasatiempos o alguna actividad que disfrutes en una profesión. Muchos pasatiempos corresponden a empleos y a necesidades del mundo cotidiano. Piensa en lo que te gusta hacer y en cómo podrías desempeñar estas actividades en una profesión.¬
++Piensa en las habilidades que te hacen sobresalir -  Las habilidades asombrosas en ciertos oficios (tales como reparar objetos o crear artículos), pueden llevarte a una profesión excelente en el futuro. Generalmente hay demanda de mano de obra calificada, por lo que no tendrás muchos problemas para encontrar trabajo. Sin embargo, es posible que necesites tomar estudios adicionales.¬
++Explórate - En ocasiones, para descubrir lo que debes hacer con tu vida necesitas conocerte mejor a ti mismo. Si quieres una profesión que te haga verdaderamente feliz, necesitas entender perfectamente las cosas que quieres y las que disfrutas hacer. Para algunas personas esto quiere decir tomar un receso para decidir qué cosas son importantes.¬
++Considera tu situación financiera - Tu habilidad para perseguir o cambiar de profesión puede depender de tu situación financiera. Algunas carreras profesionales necesitan educación especial que en ocasiones puede ser costosa. Sin embargo, no debes sentir que la pobreza es un impedimento para recibir la educación que quieres. Existen muchos programas del gobierno que ayudan a las personas a pagar por su educación, como también hay becas, subvenciones y programas de aprendizaje.¬
++Considera la estabilidad laboral en tu futuro -  De igual forma, es importante tener en cuenta la estabilidad de la profesión en el futuro. El mercado laboral fluctúa a medida que las necesidades de la sociedad varían con el tiempo. Por ejemplo, siempre hay demanda de ciertos empleos, mientras que otros se caracterizan por ser inestables. Necesitarás tener en cuenta si la profesión que eliges es lo suficientemente estable para ti y para tus deseos en el futuro. ¬
 *Cuál universidad¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Busco en linea o presencial¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-**Organización¬
-*No se organizarme¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Organizo de más¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Dejo todo al final¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Busqueda de material¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Dónde buscarlo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Cómo buscarlo¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-*Videos y/o texto¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
++Piensa qué es lo que quieres de tu experiencia universitaria en términos de ubicación, programas de estudio, vida estudiantil, tamaño de la clase y población estudiantil. - Si ya sabes qué es lo que quieres estudiar, haz las siguientes preguntas: ¿Cómo es el programa de la universidad en tu campo de estudio? ¿Por qué circunstancia es reconocida? ¿Cuántos estudiantes tiene? ¿Cuántos instructores? ¿Qué cursos se ofrecen? ¿Cuándo (días, noche, fines de semana) y cómo (en línea o parcialmente en línea) se ofrecen las clases en mi programa? ¿Cuál será mi horario como estudiante? ¿Cuánto tiempo me llevará completar mis estudios? ¿Quién es el instructor en mi área? ¿Cuáles son sus antecedentes (su escolaridad y experiencia)? ¿Puedo reunirme con los instructores y/o el jefe del departamento para enterarte más acerca del programa? ¿Qué han continuado haciendo los graduados de este programa? ¿Qué tipo de verdaderas oportunidades hay disponibles para mí como estudiante en este programa (actividades, prácticas, trabajo voluntario, oportunidades de conocer a empleadores potenciales)? ¬
++Considera los aspectos sociales - El tamaño de la escuela, la ubicación, el tipo de estudiantes que atrae.¬
++Considera los aspectos financieros - Consigue un esquema real de los costos. Presupuesta la colegiatura, las cuotas, la vivienda y planes de comida. Investiga la ayuda financiera y las becas.¬
+**Organización ¬
+*No se organizarme ¬
++Limpia tu espacio frecuentemente - Para mantener la organización, limpia frecuentemente tu habitación, tu oficina en casa, tu escritorio, tu cocina y tu armario. Designa un día de la semana como el día de limpieza y limpia cuidadosamente estos lugares. Esta medida te permitirá reducir cualquier desorden que se acumule en cada área de tu casa. También hará que sea más sencillo para ti mantener el sistema que has establecido en todas las áreas para mantenerlas organizadas.¬
++Pon las fechas importantes en un calendario - Consigue un calendario y cuélgalo en un lugar en el que puedas verlo todos los días, como en la cocina, cerca de la cama o en tu oficina en casa. También puedes poner un calendario en el escritorio de la computadora o usa la aplicación "Calendario" en un iPhone. Pon todas las fechas importantes en el calendario, como las fechas de entrega, las citas y las reuniones. Actualiza el calendario frecuentemente para ayudar a organizar tu tiempo.¬
++ Haz una lista de cosas que debes hacer - Para mantenerte organizado, haz una lista de cosas que debes hacer. Puedes tener una lista de cosas que debes hacer a corto plazo y una de las que debes hacer a largo plazo. Escribe la lista en una pizarra y mantenla en algún lugar en donde puedas verla, como en la cocina o en tu habitación. Tacha los elementos a medidas que los completes para que puedas sentirte productivo y motivado a abordar más elementos de la lista ¬
++Haz un horario diario -  Para permanecer organizado mientras trabajas, crea un horario diario de tareas. Añade las tareas a la lista en orden de importancia y táchalas a medida que las completes. Coloca las tareas más importantes primero y luego las menos importantes. Esto puede hacer que te sientas más organizado diariamente, ya sea que estés en el trabajo o en la escuela. ¬
+*Cómo investigar un tema ¬
++Identifica el tema de tu investigación - Aunque quizás tengas la oportunidad de elegir el tema, también es posible que un profesor te lo asigne y si esto ocurre, usualmente puedes elegir tu ángulo de enfoque. Elige una idea que encuentres interesante y úsala como punto de partida.¬
++Comprende tu tarea - Hay una variedad de aspectos de tu tarea que necesitas entender antes de que empieces a investigar. ¿Cuánta información necesitas? Necesitarás más información para un reporte de 10 páginas que para un ensayo de 5 párrafos. ¿Qué información necesitas? ¬
++Determina los tipos de información que necesitarás - Esto incluye cosas como el formato del material y la importancia del tiempo, el lugar y el idioma en tu tema. ¿Necesitas hechos, opiniones, análisis o estudios de investigación? ¿O quizás necesitas una mezcla de todos los elementos anteriores? ¬
++Delimita el enfoque de la investigación - Después de que termines tu investigación preliminar, necesitarás delimitar el eje central del tema. Por ejemplo, si tienes una gran cantidad de información diferente sobre Hamlet, en vez de tratar de atestar todos los datos en un ensayo de 10 páginas, opta por revelar tu ángulo favorito (ejemplo: la importancia de la locura). ¬
++Accede a las fuentes académicas - A medida que investigas, tendrás que revisar y evaluar varias fuentes de investigación válidas. Aunque el internet puede ser una herramienta útil para investigar, es difícil evaluar la validez de la información que proporciona. No olvides llevar un registro de tu investigación, además de apuntar las fuentes donde encontraste la información.¬
 ~
 ***PERSONAL¬
 **Autestima¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Sufrimiento de acosos o bullying¬
++Demuestra una reacción mínima ante los abusos - No les demuestres a los abusadores que te sientes herido y que ha logrado afectarte; solo sigue tu camino. Los abusadores obtienen satisfacción al hacer que otros se sientan mal o incómodos, así que reaccionar ante ellos solo los animará a seguir. El abusador quiere obtener atención y si le demuestras que te hiere emocionalmente, obtendrá más satisfacción al hacerlo.¬
++Soluciona el problema con los abusadores - Intenta evitarlos en la escuela y en situaciones sociales. Si tomas la misma ruta que ellos, prueba con una diferente; Si no pueden encontrarte, no podrán abusar de ti. Haz tu mejor esfuerzo por evitarlos, pero no lo hagas evidente. Generalmente, interpretarán eso como miedo o éxito y, como resultado, abusarán de ti aún más.¬
++Refleja un insulto de vuelta al atacante verbal -  Si lo haces en público, puede provocar las risas de las personas alrededor o de las víctimas del abusador. Esta es la peor pesadilla de un abusador, ya que es destronado de su posición de poder sobre ti. Recuerda que no debes darle al abusador la atención que exige, ya que esto le dará la satisfacción de herir emocionalmente a los demás. (Evita insultar al abusador si antes ha abusado físicamente de ti, ya que eso da lugar a un conflicto que no puedes ganar. En lugar de exacerbar la situación, aléjate. Infórmaselo a una autoridad si crees que estás en peligro. )¬
++Informa todo tipo de abuso a una figura de autoridad - Ten en cuenta a tus padres, al consejero estudiantil, al director, a tu jefe, a la policía o a alguien más que pueda lidiar o castigar al abusador y protegerte tu seguridad. Es importante que hables con alguien acerca de tu problema para ponerle fin. Esto no es una acción cobarde de tu parte, ya que se requiere de valor para salir al frente y hacerte ver vulnerable.¬
+*Sufrimiento por la perdida de un ser querido¬
++Llora la muerte de la persona - Con el tiempo debemos reponernos de la muerte de alguna persona, ya sea esa persona un ser querido o simplemente una persona que apenas conocías. Sin embargo, el primer paso es llorarlo. Déjalo salir. Asiste al funeral y llora la muerte profunda y sinceramente. Piensa en todas las cosas que te hacen recordar a esa persona y en todas las cosas que hicieron juntos. Luego, llora. Déjalo salir. Recuerda a la persona y los pensamientos positivos y tratar de olvidar los malos recuerdos. Tomará tiempo, pero inténtalo.¬
++Habla - Esto siempre será difícil, pero todos debemos intentarlo. Habla acerca de la persona con familiares y amigos. Habla con ellos sobre tus preocupaciones y aflicciones, podrán ayudarte si dices lo que sientes. Hablar con alguien que no está involucrado en la situación puede ayudar ya que puede escuchar sobre cómo te sientes y darte consejos...¬ +Recupérate 3 - Se necesita tiempo para superar algo como la muerte y algunas personas nunca se sienten igual otra vez, pero la vida sigue y tienes que ser fuerte. Eso no significa que te olvides de la persona que ha muerto, pero no te aflijas por la muerte para siempre.¬
+*Exclusión Social ¬
++Pon el suceso en perspectiva - A veces, los sucesos realmente pueden darte una pista de los aspectos de tu conducta que son problemáticos para otras personas. Aunque, generalmente, tomamos el rechazo de forma muy personal. Los disgustos, como no conseguir el empleo que quieres o que alguien con quien quieres salir te rechace, realmente tienen poco que ver con los aspectos invariables de tu personalidad.¬
++Mira las opciones - Después del dolor inicial del rechazo, casi todas las personas entran en una “fase de evaluación” en la que se forman una opinión y formulan sus próximos pasos. Actuar a fin de aliviar este dolor es natural; por tanto, ¿qué puedes hacer para sentirte más incluido? En realidad, la exclusión te hace más sensible a los posibles signos de una conexión, más atento a las señales sociales, y más dispuesto a complacer.¬
++Busca la inclusión en otro lugar - Sin importar lo que decidas respecto a los excluidores, siempre es bueno tener diferentes grupos de amigos para evitar poner a todos en el mismo saco. A menudo, las personas responden al rechazo al buscar la inclusión en otro lado para recargar su autoestima¬
+*Baja Autoestima¬
++Convierte los pensamientos negativos en positivos - Haz una lista con tus pensamientos negativos más recurrentes, y a su lado escribe otro alentador para repetirte cuando se te presente el negativo. ¬
++Haz una lista de tus logros - Si tienes la autoestima baja, un buen ejercicio consiste en hacer una lista con los logros personales de los que te sientas más orgulloso.¬
++ Acéptate tal y como eres - Con tus virtudes y tus defectos. Así de claro y de difícil. Se realista, no intentes cambiar lo imposible, y se consciente de tus debilidades y tus fortalezas. Un buen conocimiento de ti mismo es la herramienta más eficaz para conseguir el éxito en tu vida y desarrollar tu bienestar emocional.¬
++Olvida las comparaciones para no alimentar tu baja autoestima - Cuando te sientas inferior o te desprecies por no tener esto o aquello en tu vida, recuerda que mucha gente desearía tener o ser lo que tú eres. Se agradecido por tus cualidades personales en vez de machacarte queriendo cumplir las que la sociedad te impone.¬
 **Control de emociones¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-**Conflicto¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
-**Elección de empleo¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Problemas para empatizar con los demás ¬
++Conéctate con tus propias emociones - Para poder sentir emociones conjuntamente con alguien más, primero debes ser capaz de sentirlas en tu interior. ¿Estás conectado con tus emociones? ¿Notas cuando estás contento, triste, molesto o asustado? ¿Dejas que estos sentimientos afloren y los expresas? Si tiendes a reprimir tus emociones en lugar de dejarlas ser parte de tu vida, intenta dejarte sentir más profundamente.¬
++Escucha con mucha atención -  Escucha lo que las personas dicen y nota la entonación de su voz. Observa todas las pequeñas señales que contradicen la verdadera forma de sentirse de una persona. Quizás sea algo tan sutil como agachar la mirada repetidamente o ver al vacío. Deja tus cosas personales de lado y presta atención a la historia de esa persona.¬
++Ponte en el lugar de la otra persona - ¿Alguna vez has leído una historia que te atrapó tanto que te olvidaste de ti mismo? Por unos minutos te convertiste en ese personaje en particular y sabías exactamente lo que se debería sentir al ver a tu padre por primera vez después de 10 años o perder al amor de tu vida por culpa de alguien más. Sentir empatía por otra persona no es tan distinto. Si escuchas atentamente a la persona y realmente intentas comprenderla, llegará un punto en el cual llegues a sentir lo que la otra persona está sintiendo. Tendrás una idea de lo que significa estar en los zapatos de esa persona.¬
++No tengas miedo de sentirte incómodo - ¡La empatía puede ser dolorosa! Te lastima absorber el dolor de los otros y toma trabajo conectarte con la otra persona a un nivel tan profundo. Quizás sea por eso que la empatía ya no es tan fuerte como antes; ya que es más fácil mantener conversaciones ligeras para mantenerse reservado. Si quieres ser más empático, no puedes mantenerte alejado de los sentimientos de las otras personas. Sé consciente de que ellos tendrán un efecto en ti y de que probablemente termines sintiéndote diferente. Sin embargo, tendrás un mejor entendimiento sobre la otra persona y eso servirá de base para construir un relación más sólida.¬
+*Agresividad¬
++Ten en cuenta las señales físicas de emoción - Por lo general, detrás de nuestra tendencia a atacar verbalmente a otras personas hay ira, frustración o alguna otra fuerte emoción. Las emociones te ponen en un modo de lucha o huida, lo cual significa que tu cuerpo mostrará signos físicos de mayor tensión. Aprender a reconocer estas señales te ayudará a detener esta reacción antes de que se desarrolle y disminuir las posibilidades de una confrontación.¬
++No te entrometas - Cuando te sientes conflictivo, quieres empezar un conflicto y retar a otras personas. Interrumpir para objetar un punto o una crítica es un claro indicativo de que estás siendo complicado y no es un comportamiento útil, ya que te hacer parecer agresivo e inseguro. También significa que tus emociones todavía siguen fuera de control.¬
++Pospón la discusión para otra ocasión - Probablemente te des cuenta de que tus emociones son muy fuertes como para tener una discusión calmada. En ese caso, pregúntale a la otra persona si puedes continuar la conversación más tarde y discúlpate educadamente. Nadie se beneficiará de una conversación si eres demasiado conflictivo.¬
++Evita responder las críticas - Para ser menos conflictivo tendrás que desarrollar la capacidad de recibir y dar retroalimentación respetuosamente. Esto puede requerir autocontrol y una actitud receptiva. Más que nada, evita la tentación de agredir verbalmente y criticar la retroalimentación que tu amigo, ser querido o compañero de trabajo te da¬
++Escucha a los demás - Para ser menos conflictivo, trata de ponerte en los zapatos de la otra persona y entiende cómo se siente. Esto se llama empatía y empieza con la comprensión auditiva. Escucha a los demás. Aprende a escuchar efectiva y activamente¬
+*Estrés¬
++Ejercítate - Solo de 30 a 45 minutos de ejercicio 3 veces a la semana puede hacerte sentir más saludable y en control de tu propia vida. Los estudios han mostrado que el ejercicio puede aliviar el estrés, reducir la depresión y mejorar tu función cognitiva. El ejercicio también libera las endorfinas, sustancias químicas que desencadenan los sentimientos positivos. También libera endorfinas, químicos que producen sentimientos positivos.¬
++Come bien  - Mantener la dieta adecuada es la clave para reducir el estrés. Los cuerpos bien nutridos están en mejores condiciones de lidiar con los efectos secundarios emocionales y físicos del estrés. Además, el estrés se ha relacionado con comer en exceso, las personas suelen buscar alimentos altos en calorías y grasas cuando se sienten estresadas.Si quieres reducir el estrés en tu vida, entonces debes prestar especial atención a tu dieta.¬
++Mejora tu horario de sueño - El sueño es simplemente muy importante para reducirlo y sacrificarlo. Mejorar tu horario de sueño contribuirá en gran medida a reducir el estrés, ya que el sueño afecta la memoria, el juicio y el humor. Las investigaciones demuestran que casi todos los estadounidenses estarían más felices, más saludables y más seguros si durmiese un tiempo adicional de 60 a 90 minutos cada noche.¬
+**Adicciones ¬
+*Dejar una adicción ¬
++Haz que alguien te ayude - Sigue fumando esa media cajetilla como lo habías hecho o una copa de vino al día en vez de dos. Haz que un familiar o un amigo cercano se asegure de que no hagas trampa ni fumes o tomes más. Después de todo, solo te engañarás a ti mismo. Aun así, necesitas un poco de ayuda. ¡Haz que te animen!¬
++Haz una jarra de monedas - Muchas personas lo hacen para maldecir algo. Cada vez que fumes más de lo que debes fumar (o que hagas trampa) tienes que poner una moneda de 25 céntimos o un billete de un dólar en esa jarra. Cuando se llene (lo cual no debería suceder), dona el dinero a una organización benéfica y empieza de nuevo. A nadie le gusta perder dinero, ¿cierto? Entonces deja ese hábito.¬
++Haz una lista - Haz una lista de todas las razones por las que no debes tener esa adicción y colócala en tu cabecera, en tu billetera o en algún lugar en el que lo veas a diario. Esto te lo recordará.¬
+*Síndrome de abstinencia ¬
++Esto es más difícil, pero más eficaz - Bota todos tus cigarros, cervezas o cualquier cosa. Sí, gastarás dinero, pero no hay forma de que hagas trampa. Simplemente bótalo. No compres más. Resístete completamente. No mires hacia atrás. Haz que otra persona lo haga por ti si es necesario.¬
++Mantente ocupado para que no pienses en tu adicción -  Únete a un grupo. Ve a la escuela. Consigue un trabajo. ¡Haz algo! Haz cualquier cosa que saque tu mente de esa adicción y al final la olvidarás completamente.¬
++Debes tener amigos y familiares que te apoyen -  No dejes que te encuentren fumando a escondidas o publicando algo en Twitter de vez en cuando. Debes establecer un castigo para los momentos en que caigas en la adicción. No te establezcas una meta (ya sabes cuál es) para dejar tu adicción. La pregunta es: ¿puedes hacerlo?¬
 ~
 ***EMPRESA¬
 **Administración¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Falta de Organización¬
++Crear un manual para estandarizar procesos - El crear un manual para estandarizar procesos va a ayudar a que cualquier persona que entre a este puesto pueda llevar a cabo todas las acciones necesarias para las tareas correspondies.¬
++Designar personas para reportes semanales- Al elegir una persona para hacer reportes semanales se puede tener una mayor viabilidad en las soluciones ya que se tendría un mejor panorama de la situación actual de la empresa.¬
++Comite de procesos - Se puede crear un comite que se encargue de homologar y homoguenizar procesos para poder llevar a cabo mejores y más faciles de administar problemas.¬
 **Gastos¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*CashFlow negativo¬
++Replantear modelo de negocio - Siempre se debe de tratar de tener un modelo de negocio donde se tenga un cashflow positivo, si el modelo de negocio no hace esto debe de ser modificado.¬
++Aumentar ventas - Puede ser que tu negocio no haya llegado al punto donde las ventas ya cubren los gastos fijos de la empresa por lo que el aumentar y concentrarse en las ventas puede llevar a iniciar a invertir la situación de cashflow.¬
++Encontrar "Gastos Hormiga" - Muchas veces los gastos hormiga son gastos innecesarios que pueden quebrar una empresa ya que por separado no son significativos pero una ves que vemos el acumulado es muy grande lo que se puede juntar, al eliminarlos se puede recuperar buena parte de gastos innecesarios.¬
 **Empleados¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Cultura de los empleados¬
++Empleado problematico - Si se tiene un empleado problematico se debe de tratar de aislar de los equipos y despedirlo lo antes posible para que no afecte el rendimiento de la empresa.¬
++Mantener motivado a un empleado - Se debe de tratar de buscar tener motivado a un empleado con recompensas no economicas para poder mantener el mismo personal y que ayuden a tomar mejores decisiones para la empresa.¬
++Difución de cultura - Se debe buscar tener juntas cada dos semanas o mensuales donde se expongan los cambios y temas en la cultura de la empresa donde puedan verse afectados los empleados.¬
 **Clientes¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Atención al cliente¬
++No se como hablarle a un cliente. - Crear un manual que cualquiera pueda seguir para darle seguimiento a lo que el cliente puede necesitar y que y como se le tiene que contestar.¬
++No se que información le puedo dar al cliente - Tener un diagrama donde se dice que información se le puede dar al cliente.¬
++Tengo muchos clientes y no puedo atenderlos a todos - Se pueden crear sistemas automatizados para atender las preguntas más frecuentes y ponerlas en la página web de la empresa.¬
 ~
 ***ADMINISTRATIVO¬
 **Falta de orden¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No encuentro mis cosas¬
++Marcar los lugares donde pones tus pertenencias - Con etiquetas pon nombres donde vayan tus cosas, por ejmeplo el lugar de los lapicez, el lugar de las carpetas, etc¬
++Limpieza - Si ya hay cosas que te estorban y no ocupas por nada entonces haz una depuración y tiralas a la basura¬
++Ten un inventario pequeño - Si utilizas varios materiales a menudo y son de suma importancia para realizar tus trabajos crea un mini inventario dodne veas cuáles materilaes estan por acabarse y necesitas reponer¬
 **Falta de conocimiento¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No tienes idea de como resolver un problema o tienes dudas¬
++Busca en internet - Internet es una herrameinta muy útil en estas situaciones, tal vez hayan artículos sobre lo que necesitas saber o algunos videos donde se explican tus dudas¬
++Consulta alguna bibliografía recomendada - Puedes encontrar explicacines de como ir resolviendo la tarea o aclara las dudas¬
++Acercate a un profesor o alguien que conozca del tema - Ellos conocen más del tema que tu, te pueden enseñar y prientar en tu tarea pero ten por seguro que no harán el trabajo por ti¬
 **Tarea nueva¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Primera vez que se realiza una actividad o trabajo así¬
++Busca trabajos parecidos - Puede que no sean tal cuál tu proyecto pero es una buena forma de empezar y ver por donde se debe de abordar el trabajo¬
++Habla con algún experto del tema - Te pueden orientar en la forma en como debe de realizar tu trabajo y te darán consejos de que si y que no debes hacer¬
++Investiga en internet o en libros del tema - Te darán herramientas para realizar el trabajo¬
 ~
 ***HÁBITOS¬
 **Malos Hábitos¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Tengo habitos que no me gustan¬
++Llevo mucho tiempo con malos habitos - Identificalos y despues trata de cambiarlos uno por uno al ver cual es el trigger de cad auno.¬
++Me creo malos habitos - Pon atención en donde nacen esos malos habitos para poderlos corregir.¬
++La gente con la que me junto tiene malos habitos - Busca nuevos amigos donde estas personas tengan la misma vision de mejoras que tu quieres tener para tu futuro.¬
 **Generar Hábitos¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*¿Como generar buenos habitos?¬
++Se en que quiero generar buenos habitos - ¡No pierdas el tiempo y arranca con tu cambio de habitos!¬
++Se en donde quiero generar buenos habitos - ¡Observa que buenos habitos quieres generar y implementalos en tu día a día!¬
++No tengo tiempo de cambiar mis malos habitos a buenos habitos - Si ya tienes tiempo de hacer malos habitos el intercambio por buenos habitos deberia de suceder en el mismo momento por lo que el tiempo no debe ser un factor.¬
 **Mejorar Hábitos¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No se que habitos se pueden mejorar¬
++Identificar que habitos no te hacen crecer como persona - Al identificar estos habitos se puede llegar a ver cuales se tienen que tratar de eliminar y cuales se pueden mejorar para que cumplan mejores objetivos.¬
++Preguntarle a tu amigo que no le gusta de ti - Al preguntarle a tu amigo lo que no le gusta de ti puedes llegar a ver cosas que tu mismo no habias pensado sobre tus acciones o actitudes y de ahí pensar en que habitos generar para corregirlo.¬
++Acercarte con tus papas - Tus papas son las personas que probablemente más te quieren y que quieren verte crecer, acercarte a pedirles consejos y ve como creces con ellos.¬
 ~
 ***TECNOLOGICO¬
 **Con un dispositivo¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*Dejó de funcionar o se quedó atorado¬
++Reinicia tu dispositivo - Al momento de reiniciar tu dispositovo este cargara sus funciones primordiales para ponerse en marcha nuevamente¬
++Lee en internet si es problema recurrente - Encontraras foros que hablen respecto del tema y puede que encuentres una solución en la cuál puedas resolver tu problema¬
++Acude a un centro de atención - Allí encontraras a especialistas que revisarán tu dispositovo y te dirán que se debe de hacer¬
 **Búsqueda de material¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No encuentro nada relacionado a mi tema principal¬
++Revisa en buscadores académicos - Normalmente ahí solo encontrrás artículos de investigación sobre el tema en que estes interesado¬
++Revisa bibliografía especializada en páginas de universidades - Puedes acceder a portales de varias universidades sin la necesidad de ser alumno por ejemplo la UNAM¬
++Preguntale a algún académico - Ellos te pueden orientar en el tema y te pueden decir cosas que necesites¬
 **Aprendizaje¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No entiendo nada de lo que me explican o de lo que leo¬
++Tomate tu tiempo para reflexionar acerca de lo que haz visto o leido - No esta de más darle un pequeño repaso de 10 minutos a las cosas nuevas que veas esto te ayudara a retener la información que necesites¬
++Pregunta - Si no entiendes algunas cosas pregunta a los exportos ellos te pueden ayudar¬
++Haz mapas mentales - Te ayudaran a organizar tu información y la podrás leer y consultar de manera más rápida¬
 **Qué hacer con ello¬
-*Probema Principal¬
-+Solucion 1 - Descripción¬
-+Solucion 2 - Descripción¬
-+Solucion 3 - Descripción¬
+*No se que hace mi máquina o aparto electrónico nuevo¬
++Lee el instructivo - La mayoría de la gente no sabe de que es capaz sus artefactos hasta que leen lo que en verdad pueden hacer y como cuidarlos¬
++Pregunta al vendedor o a la persona que te lo regalo su funcionamiento - Ellos te dirán para que sirve y que uso le puedes dar¬
++Busca tutoriales en internet de como funciona - Hay personas que se didican exclusivamente a enseñar el funcionamiento de aparatos electrónicos y te pudes dar una idea de que hcer con el tuyo¬

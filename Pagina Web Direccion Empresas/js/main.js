@@ -123,7 +123,7 @@ $(document).ready(function(){
     var icons = ["fa fa-money","fa fa-globe","fa fa-graduation-cap","fa fa-user","fa fa-building","fa fa-bar-chart","fa fa-archive","fa fa-microchip","fa fa-list"];
 
     for (var i = 0; i < Array_Topics.length; i++) {
-      var div = $("<div></div>").addClass("col-md-3 col-sm-3 first-step field-main-problem");
+      var div = $("<div></div>").addClass("col-md-3 col-sm-12 first-step field-main-problem");
       $(div).attr({"id" : i})
       var icon = $("<i></i>").addClass("" + icons[i]);
       $(icon).attr({"aria-hidden": true});
@@ -136,19 +136,31 @@ $(document).ready(function(){
     }
 
   }
-
   var first_id;
   var second_id;
   var third_id;
 
+  $("a#start").on("click", function functionName() {
+    $("header.masthead").addClass("hide");
+    $("section#Problem").removeClass("hide");
+  });
+
+  $("#return1").on("click", function functionName() {
+    $("div.subproblem").addClass("hide");
+    $("div.problem").removeClass("hide");
+    $("div.content-subproblem").empty();
+  });
+
+
+
   $(document).on("click", ".first-step", function(){
-    $("div.problem").hide();
+    $("div.problem").addClass("hide");
     $("div.subproblem").removeClass("hide");
 
     first_id = $(this).attr("id");
 
     for (var i = 0; i < Array_Topics[first_id][1].length; i++) {
-      var div = $("<div></div>").addClass("col-md-3 col-sm-3 second-step field-main-problem");
+      var div = $("<div></div>").addClass("col-md-3 col-sm-12 second-step field-main-problem");
       $(div).attr({"id" : i});
 
       var p = $("<p></p>").text(Array_Topics[first_id][1][i]);
@@ -161,8 +173,14 @@ $(document).ready(function(){
 
   });
 
+  $("#return2").on("click", function functionName() {
+    $("div.subproblem").removeClass("hide");
+    $("div.mainproblem").addClass("hide");
+    $("div.content-mainproblem").empty();
+  });
+
   $(document).on("click", ".second-step", function(){
-    $("div.subproblem").hide();
+    $("div.subproblem").addClass("hide");
     $("div.mainproblem").removeClass("hide");
 
     second_id = $(this).attr("id");
@@ -183,6 +201,7 @@ $(document).ready(function(){
   $(document).on("click", ".third-step", function(){
     console.log("click");
     $("div.mainproblem").hide();
+    $("section#Problem").hide();
     $("section.criteria").removeClass("hide");
 
     third_id = $(this).attr("id");
@@ -193,6 +212,7 @@ $(document).ready(function(){
       var strTemp = Array_Topics[first_id][2][second_id][tempIndex][i];
       strTemp = strTemp.split("-");
       var h5 = $("<h5></h5>").text("Solución " + (i + 1) + ": " + strTemp[0]);
+      $(h5).attr({"data-toggle" : "tooltip", "title" : "" + strTemp[1]})
       $("div.list-criteria").append(h5);
 
       var th = $("<th></th>").attr({"id" : "sol" + i});
