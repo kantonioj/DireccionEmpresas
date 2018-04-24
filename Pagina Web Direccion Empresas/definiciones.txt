@@ -185,6 +185,12 @@ Las inversiones aquí están entre los 25.000 dólares y los 250.000 dólares. P
 +No se como hablarle a un cliente. - Crear un manual que cualquiera pueda seguir para darle seguimiento a lo que el cliente puede necesitar y que y como se le tiene que contestar.¬
 +No se que información le puedo dar al cliente - Tener un diagrama donde se dice que información se le puede dar al cliente.¬
 +Tengo muchos clientes y no puedo atenderlos a todos - Se pueden crear sistemas automatizados para atender las preguntas más frecuentes y ponerlas en la página web de la empresa.¬
+**Organización Estructural¬
+*Servicio a Cliente¬
++Utilizar un servicio de terceros para asegurarse de que el cliente reciba su paquete a tiempo. - Si nuestro objetivo es el de garantizar el envío a tiempo y no se pueden con nuestras herramientas, habrá que utilizar externas para llevarlo a cabo con éxito¬
++Redactar una disculpa a Cropper con una compensación. - Se acepta la falla en el envío, alinean dude a el protocolo establecido devolviendo el dinero e intentando no perder un cliente al ofrecer una compensación ¬
++Ignorar el problema dada la baja posibilidad de que esto escale a mayores. - Dado el hecho de que es muy poco probable que Silvia escale a mayores se puede ignorar el problema, perdiendo un cliente en el proceso¬
++Generar un plan de acción para este extraordinario - Hacer una investigación en cuanto a lo sucedido con el paquete junto con un plan de corrección en caso de que la causa lo amerite el cual será informado a Cropper junto con la compensación necesaria¬
 ~
 ***ADMINISTRATIVO¬
 **Falta de orden¬
